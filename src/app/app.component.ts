@@ -9,8 +9,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'BeerPong';
-  yura = 93;
-  enes = 95;
+  yura = 90;
+  enes = 90;
 
   onYura(): void {
     this.yura = this.yura = this.yura + 1;
